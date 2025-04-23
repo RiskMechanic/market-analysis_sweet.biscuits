@@ -1,4 +1,4 @@
-# 📊 Sweet Biscuits Market Analysis – Mondelez International (2024)
+# Sweet Biscuits Market Analysis – Mondelez International (2024)
 
 ## Overview
 
@@ -6,13 +6,7 @@ This project presents a comprehensive market analysis of the **Sweet Biscuits se
 
 ---
 
-## 📁 Contents
-
-- 
-
----
-
-## 🔍 Objectives
+## Objectives
 
 - Understand the regional performance of the sweet biscuits market.
 - Analyze Mondelez’s positioning, financial health, and strategic initiatives.
@@ -21,7 +15,7 @@ This project presents a comprehensive market analysis of the **Sweet Biscuits se
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **Market Growth**: CAGR trends and emerging markets for sweet biscuits.
 - **Consumer Shifts**: Rise of healthy snacking and premium product lines, and impact of Covid-19.
@@ -30,7 +24,7 @@ This project presents a comprehensive market analysis of the **Sweet Biscuits se
 
 ---
 
-## 💼 Tools Used
+## Tools Used
 
 - Excel for financial modeling and visualizations
 - SWOT and eco frameworks for strategic analysis
@@ -38,7 +32,7 @@ This project presents a comprehensive market analysis of the **Sweet Biscuits se
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 This project strengthened my skills in:
 - Market research and sector benchmarking
